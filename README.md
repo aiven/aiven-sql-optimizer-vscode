@@ -40,7 +40,6 @@ Aiven focuses on optimizing your experience with MySQL, PostgreSQL, Aurora for M
 <br/>
 
 ## Aiven Resources
-
 <p><a href="https://aiven.io/tools/sql-query-optimizer">Online SQL Optimizer for PostgreSQL and MySQL</a></p>
 <p><a href="https://aiven.io/tools/sql-formatter">SQL Formatter</a></p>
 <p><a href="https://aiven.io/tools/sql-syntax-checker">SQL Syntax Checker</a></p>
