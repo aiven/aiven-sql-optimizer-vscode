@@ -51,7 +51,7 @@ Aiven focuses on optimizing your experience with MySQL, PostgreSQL, Aurora for M
 
 ### 1.0.2
 
-- Add Optimize quick action
+- Add SQL optimizer quick action
 
 ### 1.0.1
 

@@ -2,7 +2,7 @@
 
 ## [1.0.2] - 2024-12-5
 ### Added
-- Optimize quick action
+- SQL optimizer quick action
 
 ## [1.0.1] - 2024-11-11
 ### Added
