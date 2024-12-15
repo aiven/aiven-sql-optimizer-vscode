@@ -27,13 +27,12 @@
 ## Optimize a SQL Query:
 
 <p> 1. Select the desired SQL query text in the editor.</p>
-<p> 2. Right-click the selected text or press <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the Command Pallete.</p>
-<p> 3. Select <kbd>Optimize SQL with Aiven</kbd></p>
+<p> 2. Select <kbd>Optimize SQL with Aiven from the quick action above your selection</kbd></p>
 
 <br/>
 
 
-## Suported Databases
+## Supported Databases
 
 Aiven focuses on optimizing your experience with MySQL, PostgreSQL, Aurora for MySQL, MariaDB and Percona Server. Some of Aiven's recommendations may apply to other databases such as Oracle and SQL Server as well.
 
@@ -49,6 +48,10 @@ Aiven focuses on optimizing your experience with MySQL, PostgreSQL, Aurora for M
 <br/>
 
 ## Release Notes
+
+### 1.0.2
+
+- Add SQL optimizer quick action
 
 ### 1.0.1
 
