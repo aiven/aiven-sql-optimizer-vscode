@@ -1,5 +1,7 @@
 # Changelog
-
+## [1.0.3] - 2025-01-01
+### Added
+- Resources changes
 ## [1.0.2] - 2024-12-5
 ### Added
 - SQL optimizer quick action
