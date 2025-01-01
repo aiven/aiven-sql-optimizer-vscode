@@ -55,6 +55,10 @@ Aiven focuses on optimizing your experience with MySQL, PostgreSQL, Aurora for M
 
 ## Release Notes
 
+### 1.0.4
+
+- Minor fixes
+
 ### 1.0.3
 
 - Resources changes

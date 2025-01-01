@@ -1,4 +1,7 @@
 # Changelog
+## [1.0.4] - 2025-01-01
+### Added
+- Minor fixes
 ## [1.0.3] - 2025-01-01
 ### Added
 - Resources changes
