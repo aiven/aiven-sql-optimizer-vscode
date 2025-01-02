@@ -2,7 +2,6 @@
 <h1>
 
 <picture>
-  <source srcset="https://github.com/aiven/aiven-sql-optimizer-vscode/raw/main/assets/images/aiven_logo_dark_theme.png" media="(prefers-color-scheme: dark)">
   <img src="https://github.com/aiven/aiven-sql-optimizer-vscode/raw/main/assets/images/aiven_logo.png" width=800>
 </picture>
 
@@ -52,26 +51,3 @@ Aiven focuses on optimizing your experience with MySQL, PostgreSQL, Aurora for M
 
 
 <br/>
-
-## Release Notes
-
-### 1.0.4
-
-- Minor fixes
-
-### 1.0.3
-
-- Resources changes
-
-### 1.0.2
-
-- Add SQL optimizer quick action
-
-### 1.0.1
-
-- Updated Readme with Aiven Resources
-
-### 1.0.0
-
-- Initial release of Aiven SQL Optimizer
-
