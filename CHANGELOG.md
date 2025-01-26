@@ -1,4 +1,7 @@
 # Changelog
+## [1.0.6] - 2025-01-26
+### Added
+- SQL Formatter
 ## [1.0.5] - 2025-01-02
 ### Added
 - Resources changes
